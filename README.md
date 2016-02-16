@@ -2,10 +2,6 @@
 
 A bare-bones AngularJS blog app designed to work with the Wordpress [JSON REST API](http://wp-api.org).
 
-## Demo
-
-http://www.michaelbromley.co.uk/experiments/angular-wordpress-seed/
-
 ## Setting Up Wordpress
 
 1. Download and install Wordpress ([Download link](https://wordpress.org/download/))
